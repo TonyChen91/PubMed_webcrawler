@@ -1,2 +1,5 @@
-# PubMed_webcrawler
+# PubMed網站爬蟲程式
 PubMed網站爬蟲: 自動蒐集免費論文並在excel生成論文標題和超連結
+# 歡迎使用
+### 一些變數設定
+### 版權聲明
